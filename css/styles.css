@@ -449,6 +449,9 @@ body {
 }
 
 @media (min-width: 640px) and (max-width: 859px) {
+    .intro3{
+        height: 95vh;
+    }
     .Ilustration{
         width: 600px;
         height: 400px;
@@ -527,6 +530,9 @@ body {
 }
 
 @media (max-width: 639px) {
+    .full{
+        width: 100%;
+    }
     .Ilustration{
         width: 100%;
         height: 40%;
